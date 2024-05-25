@@ -22,7 +22,6 @@ const myArr3 = arr.filter((item) =>{
 
 console.log(myArr3);
 
-
 //                  reduce
 const sum = arr.reduce((item1, item2)=>{
     return item1 + item2;
